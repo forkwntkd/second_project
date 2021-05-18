@@ -1,2 +1,1 @@
-echo print('main_2')
-print("main2")
+print("user 1")
